@@ -12,17 +12,17 @@ h1{
   height: auto;
 }
 @keyframes swageffect{
-    0%  {color:pink;}
-   25%  {color:yellow;}
+    0%  {color:#e55b7b;}
+   25%  {color:#eab54b;}
    50%  {color:purple;}
    75%  {color:green;}
    100% {color:red;}
 }
 @-webkit-keyframes swageffect{
-    0%  {color:pink;}
-   25%  {color:yellow;}
+    0%  {color:#e55b7b;}
+   25%  {color:#eab54b;}
    50%  {color:purple;}
-   75%  {color:green;}
+   75%  {color:#3c80bc;}
    100% {color:red;}
 }
 #HP{
