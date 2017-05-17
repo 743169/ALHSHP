@@ -12,21 +12,21 @@ h1{
   height: auto;
 }
 @keyframes swageffect{
-    0%  {color:pink;}
+    0%  {color:#5094ed;}
    25%  {color:yellow;}
-   50%  {color:blue;}
+   50%  {color:#5094ed;}
    75%  {color:green;}
    100% {color:red;}
 }
 @-webkit-keyframes swageffect{
     0%  {color:red;}
    25%  {color:yellow;}
-   50%  {color:blue;}
+   50%  {color:#5094ed;}
    75%  {color:green;}
    100% {color:red;}
 }
 #heading3of4{
-  font-family: 'Bungee Shade', cursive;
+  font-family: 'Pacifico', cursive;
   -webkit-animation-name: swageffect; /* Safari 4.0 - 8.0 */
   -webkit-animation-duration: 1s;
   animation-name: swageffect;
