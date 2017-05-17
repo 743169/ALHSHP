@@ -25,7 +25,7 @@ h1{
    75%  {color:green;}
    100% {color:red;}
 }
-#heading3of4{
+#HP{
   font-family: 'Pacifico', cursive;
   -webkit-animation-name: swageffect; /* Safari 4.0 - 8.0 */
   -webkit-animation-duration: 1s;
